@@ -1,0 +1,12 @@
+.card{
+  border-radius: 0;
+}
+.card-action {
+  text-align: right;
+  border:none;
+}
+i {
+  padding-left: .5rem;
+  position: relative;
+  top: 0.5rem;
+}
